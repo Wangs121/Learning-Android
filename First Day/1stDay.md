@@ -6,11 +6,11 @@
 
 ## 了解目录
 
-![1568785318455](C:\Users\27766\AppData\Roaming\Typora\typora-user-images\1568785318455.png)
+![1.1](C:\Users\27766\Desktop\Android log\1.1.png)
 
 主要分析app目录，项目中的代码、资源等内容都位于此
 
-![1568785638632](C:\Users\27766\AppData\Roaming\Typora\typora-user-images\1568785638632.png)
+![1.2](C:\Users\27766\Desktop\Android log\1.2.png)
 
 * ### build
 
